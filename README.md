@@ -1,4 +1,4 @@
-# 🌟 Whitespace – Figma to Web Conversion
+# Whitespace – Figma to Web Conversion
 
 ![Whitespace Hero](./assets/whitespace-final-look.png)
 
@@ -11,7 +11,7 @@ Welcome to **Whitespace**, a modern, responsive landing page built from a Figma 
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
 
 👉 [View Live Project](https://whitepace-saas-web.netlify.app/) 
 

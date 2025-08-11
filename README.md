@@ -1,4 +1,4 @@
-# Whitespace – Figma to Web Conversion
+# Whitespace  Figma to Web Conversion
 
 ![Whitespace Hero](./assets/whitespace-final-look.png)
 

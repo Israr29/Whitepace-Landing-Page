@@ -25,8 +25,6 @@ Welcome to **Whitespace**, a modern, responsive landing page built from a Figma 
 
 ✅ Font Awesome for icons
 
-✅ Google Fonts (Poppins, DM Sans)
-
 ✅ Hover effects and transitions
 
 ✅ Custom variables using :root
